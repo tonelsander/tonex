@@ -1,3 +1,7 @@
+<p align="center">
+    <img alt="horizon banner" src="http://tinygraphs.com/labs/isogrids/hexa16/tonex?theme=frogideas&numcolors=2&size=220&fmt=svg">
+</p>
+
 # Tonex Theme
 Theme for various IDE, based on jetbrains theme. It's not only for Java or a specific language, but I want to extend this theme at least for the most used programming languages.
 
