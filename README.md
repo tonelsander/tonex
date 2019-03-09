@@ -1,12 +1,12 @@
 # Tonex Theme
 Theme for various IDE, based on jetbrains theme. It's not only for Java or a specific language, but I want to extend this theme at least for the most used programming languages.
 
-If you'd like the theme, share it and let me know what you would change and what are your impressions.
+If you like the theme, share it and let me know what you would change and what are your impressions.
 
 
 ## About it
 The theme is under development: some color can change and updated according to new versions of IDEs.
-The supported language will not remain unchanged, new syntax will be added over time and if you want add support for new syntax, feel free to contribute at this theme.
+The supported language will not remain unchanged, new syntax will be added over time and if you want to add support for new syntax, feel free to contribute at this theme.
 
 |  Supported syntax  |
 |:------------------:|
