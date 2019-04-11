@@ -1,10 +1,10 @@
-<scheme name="Tonex copy" version="142" parent_scheme="Darcula">
+<scheme name="Tonex" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2018-11-07T21:18:35</property>
-    <property name="ide">Python</property>
-    <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-11-07T21:18:51</property>
-    <property name="originalScheme">Tonex copy</property>
+    <property name="created">2019-04-11T21:06:31</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.2.7.0.0</property>
+    <property name="modified">2019-04-11T21:08:20</property>
+    <property name="originalScheme">Tonex</property>
   </metaInfo>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -197,106 +197,6 @@
         <option name="FOREGROUND" value="ffc600" />
       </value>
     </option>
-    <option name="JS.BADCHARACTER">
-      <value>
-        <option name="FOREGROUND" value="d25252" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="JS.BLOCK_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="629755" />
-      </value>
-    </option>
-    <option name="JS.CLASS">
-      <value>
-        <option name="FOREGROUND" value="a9b7c6" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="JS.DECORATOR">
-      <value>
-        <option name="FOREGROUND" value="d0d0ff" />
-      </value>
-    </option>
-    <option name="JS.GLOBAL_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="ffc66d" />
-      </value>
-    </option>
-    <option name="JS.GLOBAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="7fb347" />
-      </value>
-    </option>
-    <option name="JS.INSTANCE_MEMBER_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="4ec9b0" />
-      </value>
-    </option>
-    <option name="JS.INSTANCE_MEMBER_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="a9b7c6" />
-      </value>
-    </option>
-    <option name="JS.INTERFACE">
-      <value>
-        <option name="FOREGROUND" value="d197d9" />
-      </value>
-    </option>
-    <option name="JS.INVALID_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="d25252" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="JS.LINE_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="629755" />
-      </value>
-    </option>
-    <option name="JS.LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="a9b7c6" />
-      </value>
-    </option>
-    <option name="JS.MODULE_NAME">
-      <value>
-        <option name="FOREGROUND" value="3eabe6" />
-      </value>
-    </option>
-    <option name="JS.PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="79abff" />
-      </value>
-    </option>
-    <option name="JS.STATIC_MEMBER_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="efc090" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="JS.STATIC_MEMBER_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="efc090" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="JS.STRING">
-      <value>
-        <option name="FOREGROUND" value="ffc600" />
-      </value>
-    </option>
-    <option name="JS.TYPE_ALIAS">
-      <value>
-        <option name="FOREGROUND" value="79abff" />
-      </value>
-    </option>
-    <option name="JS.VALID_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="ffc600" />
-      </value>
-    </option>
     <option name="JSON.BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="629755" />
@@ -324,8 +224,104 @@
         <option name="FOREGROUND" value="efc090" />
       </value>
     </option>
+    <option name="KOTLIN_ABSTRACT_CLASS">
+      <value>
+        <option name="FOREGROUND" value="3eabe6" />
+      </value>
+    </option>
+    <option name="KOTLIN_ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="d0d0ff" />
+      </value>
+    </option>
+    <option name="KOTLIN_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="629755" />
+      </value>
+    </option>
+    <option name="KOTLIN_CLASS">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="KOTLIN_CONSTRUCTOR">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="4ec9b0" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
+      <value>
+        <option name="FOREGROUND" value="efc090" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="KOTLIN_ENUM_ENTRY">
+      <value>
+        <option name="FOREGROUND" value="7fb347" />
+      </value>
+    </option>
+    <option name="KOTLIN_EXTENSION_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="4ec9b0" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="KOTLIN_EXTENSION_PROPERTY">
+      <value>
+        <option name="FOREGROUND" value="efc090" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="4ec9b0" />
+      </value>
+    </option>
+    <option name="KOTLIN_INSTANCE_PROPERTY">
+      <value>
+        <option name="FOREGROUND" value="efc090" />
+      </value>
+    </option>
     <option name="KOTLIN_LABEL">
       <value />
+    </option>
+    <option name="KOTLIN_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="629755" />
+      </value>
+    </option>
+    <option name="KOTLIN_PACKAGE_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="KOTLIN_PACKAGE_PROPERTY">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="KOTLIN_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="79abff" />
+      </value>
+    </option>
+    <option name="KOTLIN_TRAIT">
+      <value>
+        <option name="FOREGROUND" value="d197d9" />
+      </value>
+    </option>
+    <option name="KOTLIN_TYPE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="79abff" />
+      </value>
     </option>
     <option name="LAMBDA_PARAMETER_ATTRIBUTES">
       <value>
@@ -401,16 +397,6 @@
     <option name="PY.PARAMETER">
       <value>
         <option name="FOREGROUND" value="79abff" />
-      </value>
-    </option>
-    <option name="PY.PREDEFINED_DEFINITION">
-      <value>
-        <option name="FOREGROUND" value="9f3373" />
-      </value>
-    </option>
-    <option name="PY.PREDEFINED_USAGE">
-      <value>
-        <option name="FOREGROUND" value="9f3373" />
       </value>
     </option>
     <option name="PY.SELF_PARAMETER">
